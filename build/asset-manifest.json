@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bramsubic/project-4-assessment/static/css/main.0c97f6c2.chunk.css",
+    "main.js": "/bramsubic/project-4-assessment/static/js/main.e7113b27.chunk.js",
+    "main.js.map": "/bramsubic/project-4-assessment/static/js/main.e7113b27.chunk.js.map",
+    "runtime-main.js": "/bramsubic/project-4-assessment/static/js/runtime-main.8e4b8599.js",
+    "runtime-main.js.map": "/bramsubic/project-4-assessment/static/js/runtime-main.8e4b8599.js.map",
+    "static/js/2.278ab19b.chunk.js": "/bramsubic/project-4-assessment/static/js/2.278ab19b.chunk.js",
+    "static/js/2.278ab19b.chunk.js.map": "/bramsubic/project-4-assessment/static/js/2.278ab19b.chunk.js.map",
+    "static/js/3.698e162c.chunk.js": "/bramsubic/project-4-assessment/static/js/3.698e162c.chunk.js",
+    "static/js/3.698e162c.chunk.js.map": "/bramsubic/project-4-assessment/static/js/3.698e162c.chunk.js.map",
+    "index.html": "/bramsubic/project-4-assessment/index.html",
+    "static/css/main.0c97f6c2.chunk.css.map": "/bramsubic/project-4-assessment/static/css/main.0c97f6c2.chunk.css.map",
+    "static/js/2.278ab19b.chunk.js.LICENSE.txt": "/bramsubic/project-4-assessment/static/js/2.278ab19b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e4b8599.js",
+    "static/js/2.278ab19b.chunk.js",
+    "static/css/main.0c97f6c2.chunk.css",
+    "static/js/main.e7113b27.chunk.js"
+  ]
+}
